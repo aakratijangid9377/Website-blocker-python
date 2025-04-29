@@ -67,4 +67,4 @@ If you find this repo useful , give it a star
 
 Credits
 -----------
-All the credits to [kalebu](https://github.com/aakratijangid9377/)
+All the credits to [Aakrati Jangid](https://github.com/aakratijangid9377/)
